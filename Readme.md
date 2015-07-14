@@ -32,7 +32,7 @@ Fortunately, we don’t have to rely on copying and pasting in order to share co
 
 ### Using External Libraries
 
-We've see that we can save our javascript in external files, then include them via `script` tags. This is a good engineering practice even when we aren’t using someone else’s code. Keeping functions in different files and loading them with `script` lets us see the different pieces of our app in the file structure.
+We've seen that we can save our javascript in external files, then include them via `script` tags. This is a good engineering practice even when we aren’t using someone else’s code. Keeping functions in different files and loading them with `script` lets us see the different pieces of our app in the file structure.
 
 To include javascript into your html page, use the `<script>` tag. When you want to use an external library, point the src attribute to the url of the library you want to use. Like this:
 ```html
