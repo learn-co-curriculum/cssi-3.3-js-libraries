@@ -80,3 +80,5 @@ There are tons of javascript libraries. A good place to find some of the more po
 3. Search the documentation for the function you need
 4. Try it out
 5. Repeat!
+
+<a href='https://learn.co/lessons/cssi-3.3-js-libraries' data-visibility='hidden'>View this lesson on Learn.co</a>
