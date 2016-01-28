@@ -81,4 +81,4 @@ There are tons of javascript libraries. A good place to find some of the more po
 4. Try it out
 5. Repeat!
 
-<a href='https://learn.co/lessons/cssi-3.3-js-libraries' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-3.3-js-libraries' title='Javascript Libraries'>Javascript Libraries</a> on Learn.co and start learning to code for free.</p>
